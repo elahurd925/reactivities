@@ -1,0 +1,17 @@
+/home/elahurd/git/social-network/Application/bin/Debug/net8.0/Application.deps.json
+/home/elahurd/git/social-network/Application/bin/Debug/net8.0/Application.dll
+/home/elahurd/git/social-network/Application/bin/Debug/net8.0/Application.pdb
+/home/elahurd/git/social-network/Application/bin/Debug/net8.0/Domain.dll
+/home/elahurd/git/social-network/Application/bin/Debug/net8.0/Persistence.dll
+/home/elahurd/git/social-network/Application/bin/Debug/net8.0/Domain.pdb
+/home/elahurd/git/social-network/Application/bin/Debug/net8.0/Persistence.pdb
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/Application.csproj.CopyComplete
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/Application.dll
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/refint/Application.dll
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/Application.pdb
+/home/elahurd/git/social-network/Application/obj/Debug/net8.0/ref/Application.dll
